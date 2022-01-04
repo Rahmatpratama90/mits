@@ -1,2 +1,2 @@
-# mits-altair copycat 
+# mits-altair
 for college project
