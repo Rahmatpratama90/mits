@@ -1,4 +1,4 @@
-# mits-altair-Clone
+# MITS-Altair-Clone
 
 # I. Getting Started
 * This Repository Contain VHDL code for Clonign MITS-Altair Computer
